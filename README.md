@@ -11,7 +11,7 @@ uShallNotPass - password complexity/strength/whatever checker
 ### Features
 * Statistically weed out passwords with the top 20 most common bi, tri, and quad-grams (these are indicators of english words meaning it awards points for not looking like a word.)
 * completely arbitrary scoring system.
-* potentially inaccurate results.
+* potentially inaccurate results that are not tied to reality in any way.
 * mangler is somewhat interesting.
 
 
